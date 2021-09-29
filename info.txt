@@ -1,0 +1,41 @@
+Лабораторная 1 "Тьюрмиты"
+
+Программа написана на языке C# с использованием windows forms. Для генерации итогового изображения использована библиотека system drawning.
+
+Правила перемещения:
+
+A	0	1	1	A
+A	1	2	0	A
+A	2	3	-1	A
+A	3	4	1	A
+A	4	5	0	A
+A	5	6	-1	A
+A	6	7	1	A
+A	7	8	0	B
+B	8	9	1	B
+B	9	10	0	B
+B	10	11	-1	B
+B	11	12	1	B
+B	12	13	0	B
+B	13	14	-1	B
+B	14	15	1	B
+B	15	0	0	A
+
+Цвета
+
+0 - Black
+1 - Silver
+2 - Gray
+3 - Maroon
+4 - Red
+5 - Orange
+6 - Yellow
+7 - Olive
+8 - Fuchsia
+9 - Purple
+10 - Navy
+11 - Blue
+12 - Teal
+13 - Aqua
+14 - Lime
+15 - Green
